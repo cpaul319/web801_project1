@@ -1,4 +1,5 @@
 # project1
+
 Ethanaart Project
 
-<!--notes -->
+Connecting to Github commit
